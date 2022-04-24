@@ -1,4 +1,4 @@
 WindowName:"Counter-Strike: Global Offensive - Direct3D 9"
-NUM_CLASSES:2
+NUM_CLASSES:1
 Head_Order:0
 Body_Order:1
