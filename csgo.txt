@@ -1,2 +1,2 @@
-WindowName:"Counter-Strike: Global Offensive - Direct3D 9"
+WindowName:Counter-Strike: Global Offensive - Direct3D 9
 NUM_CLASSES:1
