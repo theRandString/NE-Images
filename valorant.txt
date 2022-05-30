@@ -1,2 +1,0 @@
-WindowName:"VALORANT  "
-NUM_CLASSES:1
