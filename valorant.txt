@@ -1,4 +1,2 @@
 WindowName:"VALORANT  "
-NUM_CLASSES:2
-Head_Order:1
-Body_Order:0
+NUM_CLASSES:1
